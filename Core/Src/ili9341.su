@@ -1,0 +1,12 @@
+ili9341.cpp:13:13:void ILI9341_Reset()	8	static
+ili9341.cpp:19:13:void ILI9341_WriteCommand(uint8_t)	16	static
+ili9341.cpp:24:13:void ILI9341_WriteData(uint8_t*, size_t)	24	static
+ili9341.cpp:36:13:void ILI9341_SetAddressWindow(uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+ili9341.cpp:55:6:void ILI9341_Init()	120	static
+ili9341.cpp:210:6:void ILI9341_DrawPixel(uint16_t, uint16_t, uint16_t)	24	static
+ili9341.cpp:223:13:void ILI9341_WriteChar(uint16_t, uint16_t, char, FontDef, uint16_t, uint16_t)	48	static
+ili9341.cpp:242:6:void ILI9341_WriteString(uint16_t, uint16_t, const char*, FontDef, uint16_t, uint16_t)	32	static
+ili9341.cpp:268:6:void ILI9341_FillRectangle(uint16_t, uint16_t, uint16_t, uint16_t, uint16_t)	32	static
+ili9341.cpp:288:6:void ILI9341_FillScreen(uint16_t)	24	static
+ili9341.cpp:292:6:void ILI9341_DrawImage(uint16_t, uint16_t, uint16_t, uint16_t, const uint16_t*)	24	static
+ili9341.cpp:303:6:void ILI9341_InvertColors(bool)	16	static

@@ -1,0 +1,2 @@
+digital_output.cpp:11:6:void digital_output::set()	16	static
+digital_output.cpp:14:6:void digital_output::clr()	16	static

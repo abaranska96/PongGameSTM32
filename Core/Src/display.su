@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+pong.h:52:18:pong::paddle_coords& pong::game::get_left_paddle()	16	static
+pong.h:53:18:pong::paddle_coords& pong::game::get_right_paddle()	16	static
+display.cpp:25:6:void binary_to_string(uint16_t)	24	static
+display.cpp:35:6:static void display::SPIsimpleText(void*)	48	static
+display.cpp:84:1:void __static_initialization_and_destruction_0(int, int)	16	static
+display.cpp:84:1:cpp)	8	static

@@ -1,0 +1,10 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+pong.h:34:3:pong::paddle_coords::paddle_coords()	16	static
+pong.h:46:3:pong::game::game(uint16_t, uint16_t)	16	static
+pong.h:52:18:pong::paddle_coords& pong::game::get_left_paddle()	16	static
+pong.h:53:18:pong::paddle_coords& pong::game::get_right_paddle()	16	static
+pong.cpp:21:6:static void pong::pongGame(void*)	24	static
+pong.cpp:62:22:pong::paddle_coords& pong::paddle_coords::operator++(int)	16	static
+pong.cpp:70:22:pong::paddle_coords& pong::paddle_coords::operator--(int)	16	static
+pong.cpp:76:1:void __static_initialization_and_destruction_0(int, int)	16	static
+pong.cpp:76:1:cpp)	8	static

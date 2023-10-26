@@ -1,0 +1,7 @@
+gthr-default.h:229:1:int __gthread_key_delete(__gthread_key_t)	16	static
+main.cpp:69:6:void MX_FREERTOS_Init()	4	static
+main.cpp:86:5:int main()	8	static
+main.cpp:168:6:void SystemClock_Config()	88	static
+main.cpp:208:6:void HAL_ADC_ConvCpltCallback(ADC_HandleTypeDef*)	16	static
+main.cpp:221:6:void HAL_TIM_PeriodElapsedCallback(TIM_HandleTypeDef*)	16	static
+main.cpp:238:6:void Error_Handler()	4	static,ignoring_inline_asm

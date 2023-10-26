@@ -1,0 +1,6 @@
+digital_input.h:20:2:digital_input::digital_input(GPIO_TypeDef*, uint16_t)	24	static
+digital_output.h:20:2:digital_output::digital_output(GPIO_TypeDef*, uint16_t)	24	static
+dwt_stm32_delay.h:25:22:void DWT_Delay_us(uint32_t)	24	static
+keyboard.cpp:33:6:static void keyboard::inputProcess(void*)	24	static
+keyboard.cpp:71:1:void __static_initialization_and_destruction_0(int, int)	24	static
+keyboard.cpp:71:1:cpp)	8	static
